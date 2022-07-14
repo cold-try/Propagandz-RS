@@ -40,7 +40,7 @@ Sending private messages | ⚔︎ | ⚔︎  |
 Posting to groups |  |  | ⚔︎  
 
 ## 🚀 Begin
-- If you are using a mac, install postgresql (before before installing the requirements):
+- If you are using a mac, install postgresql (before installing the requirements):
 > *brew install postgresql*
 
 - Install the libraries
